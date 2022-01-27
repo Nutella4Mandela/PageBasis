@@ -11,3 +11,4 @@ I've also added two themes that can change whenever you go through the dropdown 
 learn ahead if I need to make themes for my webpages. There's not really much in the HomePage besides telling you what things do. 
 I didn't update it as much as you can tell, but I'm glad everything worked as it should. 
 
+![This is an image](/Pics/HomePage.PNG)
