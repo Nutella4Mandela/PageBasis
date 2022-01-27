@@ -12,3 +12,4 @@ learn ahead if I need to make themes for my webpages. There's not really much in
 I didn't update it as much as you can tell, but I'm glad everything worked as it should. 
 
 ![This is an image](/Pics/HomePage.PNG)
+![This is an image](/Pics/Theme.PNG)
