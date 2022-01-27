@@ -13,3 +13,6 @@ I didn't update it as much as you can tell, but I'm glad everything worked as it
 
 ![This is an image](/Pics/HomePage.PNG)
 ![This is an image](/Pics/Theme.PNG)
+
+# ProductPage
+This page took me a bit to make, but I've learned a good amount! 
