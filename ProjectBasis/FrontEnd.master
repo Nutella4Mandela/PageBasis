@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" ClientIDMode="Static" AutoEventWireup="true" CodeFile="FrontEnd.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Pluto</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="/Scripts/modernizr-2.8.3.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server" class ="Main">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        <Scripts>
+            <asp:ScriptReference Path="~/Scripts/jquery-3.6.0.min.js" />
+            <asp:ScriptReference Path="~/Scripts/WebForms/WebUIValidation.js" />
+        </Scripts>
+            <Services>
+            <asp:ServiceReference Path="NameService.svc" />
+        </Services>
+    </asp:ScriptManager>
+    <div>
+        <a>
+        <asp:Image ID="Image" Class="Picture" runat="server" ImageURL="Parallax.png">
+        </asp:Image>
+            </a>
+        <nav>
+            <asp:Menu ID="Menu1" runat="server" DataSourceID="Web" Orientation="Horizontal" RenderingMode="Table" StaticEnableDefaultPopOutImage="False" ForeColor="White" Width="1350px"></asp:Menu>
+        </nav>
+        
+        <p>ThemeList</p><asp:DropDownList ID="ThemeList" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ThemeList_SelectedIndexChanged" Orientation="Vertical">
+                <asp:ListItem>SunLight</asp:ListItem>
+                <asp:ListItem>DarkVoid</asp:ListItem>
+            </asp:DropDownList>
+
+        <asp:SiteMapDataSource ID="Web" runat="server" ShowStartingNode="False" />
+        <section>
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        </section>
+
+    </div>
+    </form>
+</body>
+</html>

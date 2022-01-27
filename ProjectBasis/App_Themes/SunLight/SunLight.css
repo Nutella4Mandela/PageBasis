@@ -1,0 +1,59 @@
+﻿body {
+    background: #6351ff;
+}
+
+/* This is the Menu Panel */
+nav {
+    list-style: none;
+    display: inline-block;
+    background-color: #ff6a00;
+    border-color: White;
+    border-style: Groove;
+    font-size: 20px;
+    font-weight: bold;
+    height: 30px;
+    line-height: 27px;
+    width: 1345px;
+}
+
+/* These will affect the text in each page */
+h1 {
+    color: black;
+}
+
+ol {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+p1 {
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* This will determine the size of the picture */
+.Picture {
+    height: 100px;
+    width: 1350px;
+}
+
+.ErrorMessage
+{
+    color: red;
+}
+.ContactUs {
+    color: black;
+}
+td
+{
+    color: black;
+}
+.Intro {
+    color: black;
+}
