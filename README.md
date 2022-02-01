@@ -15,4 +15,5 @@ I didn't update it as much as you can tell, but I'm glad everything worked as it
 ![This is an image](/Pics/Theme.PNG)
 
 # ProductPage
-This page took me a bit to make, but I've learned a good amount! 
+This page took me a bit to make, but I've learned a good amount of things! The first thing I did with this page is make a ascx file inside the
+ProductPage.aspx file with an update panel. I put most of the code into the control file. 
