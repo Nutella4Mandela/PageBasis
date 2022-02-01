@@ -28,4 +28,4 @@ This page is a test to check if there would be a notification on the top of the 
 
 ![This is an image](/Pics/WebService.PNG)
 
-![This is an image](/Pics/WebServiceTest.PNG)
+![This is an image](/Pics/WebSeviceTest.PNG)
