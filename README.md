@@ -22,3 +22,8 @@ what I can do with different files that aren't code-based. I've also used the Up
 Wait" everytime you click on one of the thumbnails. 
 
 ![This is an image](/Pics/ProductPage.PNG)
+
+#WebService
+This page is a test to check if there would be a notification on the top of the screen. It's not much, but it works.
+
+![This is an image](/Pics/WebService.PNG)
