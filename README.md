@@ -23,7 +23,7 @@ Wait" everytime you click on one of the thumbnails.
 
 ![This is an image](/Pics/ProductPage.PNG)
 
-#WebService
+# WebService
 This page is a test to check if there would be a notification on the top of the screen. It's not much, but it works.
 
 ![This is an image](/Pics/WebService.PNG)
