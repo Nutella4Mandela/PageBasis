@@ -15,5 +15,10 @@ I didn't update it as much as you can tell, but I'm glad everything worked as it
 ![This is an image](/Pics/Theme.PNG)
 
 # ProductPage
-This page took me a bit to make, but I've learned a good amount of things! The first thing I did with this page is make a ascx file inside the
-ProductPage.aspx file with an update panel. I put most of the code into the control file. 
+This page took me a bit to make, but I've learned a good amount of things! The first thing I did with this page is make a ascx file inside 
+the ProductPage.aspx file with an update panel. I put most of the code into the control file. This page is about an example of showing a 
+product with different types of files. I've used JQuery to animate the image files and I used the txt file to add a description. This is to test 
+what I can do with different files that aren't code-based. I've also used the Update progress to make a project template that says "Please 
+Wait" everytime you click on one of the thumbnails. 
+
+![This is an image](/Pics/ProductPage.PNG)
