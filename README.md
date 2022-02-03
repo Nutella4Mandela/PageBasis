@@ -8,7 +8,7 @@ Javascript!
 # HomePage
 The first thing I did was make a MasterPage that can help me navigate through the menu without rewriting everything in another asp file. 
 I've also added two themes that can change whenever you go through the dropdown button to make it have more character and to 
-learn ahead if I need to make themes for my webpages. There's not really much in the HomePage besides telling you what things do. 
+learn ahead if I need to make themes for my webpages using CSS. There's not really much in the HomePage besides telling you what things do. 
 I didn't update it as much as you can tell, but I'm glad everything worked as it should. 
 
 ![This is an image](/Pics/HomePage.PNG)
@@ -36,3 +36,10 @@ there's an issue with you not making any input. Again, pretty simple stuff, but 
 Again, nothing much on this page either...
 
 ![This is an image](/Pics/AboutUs.PNG)
+
+# Login
+This is to test the validation for passwords using javascript in ASP. The passwords must be the same, of course! If they're not the same, it will 
+give you a message in red saying "password does not match." If it is the same, then the message will say that the "password matches" in green. 
+If you do not input anything, it will give you an alert saying that you must input a passowrd.
+
+![This is an image](/Pics/Password.PNG)
