@@ -33,4 +33,6 @@ there's an issue with you not making any input. Again, pretty simple stuff, but 
 
 # AboutUs
 
+Again, nothing much on this page either...
 
+![This is an image](/Pics/AboutUs.PNG)
