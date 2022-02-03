@@ -24,8 +24,13 @@ Wait" everytime you click on one of the thumbnails.
 ![This is an image](/Pics/ProductPage.PNG)
 
 # WebService
-This page is a test to check if there would be a notification on the top of the screen. It's not much, but it works.
+This page is a test to check if there would be a notification on the top of the screen. I used JQuery to make this and made an alert notification if
+there's an issue with you not making any input. Again, pretty simple stuff, but efficient enough to know what it does.
 
 ![This is an image](/Pics/WebService.PNG)
 
 ![This is an image](/Pics/WebSeviceTest.PNG)
+
+# AboutUs
+
+
